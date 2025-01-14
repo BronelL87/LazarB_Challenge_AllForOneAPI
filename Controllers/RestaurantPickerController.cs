@@ -18,7 +18,7 @@ namespace LazarB_Challenge_AllForOneAPI.Controllers
         }
 
         [HttpPost]
-        [Route("RestaurantPick/{FastFoodCasualFineDining}")]
+        [Route("RestaurantPick/{fastFoodCasualFineDining}")]
 
         public string RandomRestaurant(string fastFoodCasualFineDining){
             return _restaurantPickerServices.PickRestaurant(fastFoodCasualFineDining);
