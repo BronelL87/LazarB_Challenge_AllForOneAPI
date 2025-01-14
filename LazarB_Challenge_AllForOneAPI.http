@@ -1,0 +1,6 @@
+@LazarB_Challenge_AllForOneAPI_HostAddress = http://localhost:5054
+
+GET {{LazarB_Challenge_AllForOneAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
