@@ -8,7 +8,7 @@
 
 ### Peer Review
 
-**Reviewer** 
+**Reviewer** David Monterrosa
 
 
-**Reviewer Notes** 
+**Reviewer Notes** Overall the endpoints seem to work with the exception of restaurant picker, where there seems to be an issue with your data validation.
